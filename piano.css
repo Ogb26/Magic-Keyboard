@@ -1,23 +1,11 @@
-.button {
-  background-color: #e7e7e7;
-  color: black;
-  border: 2px ;
-  padding: 14px 40px;
-}
-.button {
-  background-color: #555555;
-  border: 2px;
-  padding: 14px 40px;
-}
-
-.button {
+.white-Key {
   background-color: #e7e7e7;
   color: black;
   border: 2px ;
   padding: 14px 40px;
 }
 
-.button {
+.black-Key {
   background-color: #555555;
   border: 2px;
   padding: 14px 40px;
